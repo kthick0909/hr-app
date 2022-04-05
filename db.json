@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Bruce",
+      "lastname": "Wayne",
+      "designation": "batman",
+      "role": "batman",
+      "email": "batman@gmail.com",
+      "password": "batman",
+      "mobileno": 908765432,
+      "DOB": "15-10-1997",
+      "gender": "male",
+      "empid": 397,
+      "company": "GIS",
+      "status": "Active",
+      "resquetoken": 46461351446111650,
+      "profile": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+    },
+    {
+      "id": 2,
+      "firstname": "Heath",
+      "lastname": "Ledger",
+      "designation": "Joker",
+      "role": "joker",
+      "email": "joker@gmail.com",
+      "password": "joker",
+      "mobileno": 908765432,
+      "DOB": "15-10-1997",
+      "gender": "male",
+      "empid": 397,
+      "company": "GIS",
+      "status": "Active",
+      "resquetoken": 46461351446111650,
+      "profile": "https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png"
+    }
+  ]
+}
